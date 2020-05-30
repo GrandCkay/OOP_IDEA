@@ -1,0 +1,2 @@
+rootProject.name='OOP_IDEA'
+include ':app'
